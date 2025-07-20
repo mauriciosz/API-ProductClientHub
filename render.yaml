@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: product-cliente-api
+    runtime: dotnet
+    repo: https://github.com/SEU_USUARIO/NOME_REPOSITORIO
+    branch: main
+    buildCommand: dotnet build
+    startCommand: dotnet ProductClienteHub.API.dll
+    publishPath: bin/Release/net8.0/publish
+    env: 
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Development
