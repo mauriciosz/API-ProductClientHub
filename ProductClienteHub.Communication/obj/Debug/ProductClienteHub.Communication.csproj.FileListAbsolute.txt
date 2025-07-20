@@ -1,0 +1,7 @@
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Communication\bin\Debug\ProductClienteHub.Communication.dll
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Communication\bin\Debug\ProductClienteHub.Communication.pdb
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Communication\obj\Debug\ProductClienteHub.Communication.csproj.AssemblyReference.cache
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Communication\obj\Debug\ProductClienteHub.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Communication\obj\Debug\ProductC.98F8E78A.Up2Date
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Communication\obj\Debug\ProductClienteHub.Communication.dll
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Communication\obj\Debug\ProductClienteHub.Communication.pdb

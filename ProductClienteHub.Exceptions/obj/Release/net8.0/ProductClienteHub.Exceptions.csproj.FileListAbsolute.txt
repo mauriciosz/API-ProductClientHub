@@ -1,0 +1,11 @@
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Exceptions\bin\Release\net8.0\ProductClienteHub.Exceptions.deps.json
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Exceptions\bin\Release\net8.0\ProductClienteHub.Exceptions.dll
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Exceptions\bin\Release\net8.0\ProductClienteHub.Exceptions.pdb
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Exceptions\obj\Release\net8.0\ProductClienteHub.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Exceptions\obj\Release\net8.0\ProductClienteHub.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Exceptions\obj\Release\net8.0\ProductClienteHub.Exceptions.AssemblyInfo.cs
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Exceptions\obj\Release\net8.0\ProductClienteHub.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Exceptions\obj\Release\net8.0\ProductClienteHub.Exceptions.dll
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Exceptions\obj\Release\net8.0\refint\ProductClienteHub.Exceptions.dll
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Exceptions\obj\Release\net8.0\ProductClienteHub.Exceptions.pdb
+C:\Users\Mauricio\source\repos\ProductClienteHub\ProductClienteHub.Exceptions\obj\Release\net8.0\ref\ProductClienteHub.Exceptions.dll
